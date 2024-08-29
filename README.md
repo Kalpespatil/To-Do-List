@@ -13,7 +13,7 @@ Features :
 
 How to Run :
 1.Clone the Repository -
-https://github.com/Kalpespatil/To-Do-List.git
+https://github.com/kalpeshpatil809/To-Do-List.git
 
 2.Navigate to the Project Directory -
 cd todo-app
